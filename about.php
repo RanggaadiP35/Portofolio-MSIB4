@@ -13,7 +13,8 @@
             <div class="detail-col col-md-8">
                 <h2>Rangga Adi Putra</h2>
                 <h6>Junior Web Development</h6>
-                <p>There are many variations of passages of Lorem Ipsum available but the majority is have suffered alteration in that some form by injected humour or randomised that words which don't look even slightly believable. If you are going a to use a passage of Lorem Ipsum you need to be sure there isn't anything embarrassing. There are is many variations of passages available.</p>
+                <p>Saya adalah seorang junior web development, bahasa pemrograman yang saya gunakan yaitu php dan JavaScript dengan menggunakan framework laravel juga menggunakan
+                    database MYSQL server </p>
                 <div class="row">
                     <div class="col-md-6 col-12">
                         <div class="info-list">
